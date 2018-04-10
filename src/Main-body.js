@@ -10,8 +10,8 @@ function Main(props){
         {console.log('hello from Main-body.js')}
         <img className="Pretty-Picture" src={props.PrettyPhoto} alt="Iceland with Northern Lights" />
         <main>
-            <h1>World Wide Travel Main Body</h1>
-            <p>This is the main body text.</p>
+            <h1>World Wide Travel Guides</h1>
+            <p>These are the guidebooks currently available from World Wide Travel, Inc.</p>
         </main>
     </div>
     );
